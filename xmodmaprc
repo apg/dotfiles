@@ -1,0 +1,5 @@
+! Remove caps lock, and bind Control_L to it
+
+keycode 66 = Control_L
+clear Lock
+add Control = Control_L

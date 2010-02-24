@@ -1,0 +1,6 @@
+style "font" {
+  font = "Liberation Sans 8"
+}
+
+widget_class "*" style "font"
+gtk-font-name = "Liberation Sans 8"
