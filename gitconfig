@@ -1,0 +1,9 @@
+[user]
+	name = Andrew Gwozdziewycz
+	email = git@apgwoz.com
+[color]
+	ui = auto
+[core]
+	excludesfile = ~/.gitignore
+[diff]
+	renames = copies
